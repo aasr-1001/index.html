@@ -1,2 +1,2 @@
-# index.html
+# Cousera test
 Coursera test
